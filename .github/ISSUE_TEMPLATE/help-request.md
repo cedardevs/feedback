@@ -2,7 +2,7 @@
 name: Help Request
 about: Request help with using or deploying a OneStop component
 title: 'Help Request -- '
-labels: ''
+labels: help
 assignees: ''
 
 ---
